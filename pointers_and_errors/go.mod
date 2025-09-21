@@ -1,3 +1,0 @@
-module example.com/wallet
-
-go 1.21.5
