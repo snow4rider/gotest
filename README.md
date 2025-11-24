@@ -4,6 +4,8 @@
 
 **Master Go programming through Test-Driven Development (TDD)**
 
+> **Note:** This is a reading guide for the book "Learn Go with Tests" by [@quii](https://twitter.com/quii). I did not write this book—I'm simply providing this README to help others navigate and get the most out of this excellent free resource.
+
 ## 📖 About This Book
 
 This is a free, hands-on guide that teaches you Go by writing tests. Rather than passively reading about the language, you'll explore Go's features by building real code with test-driven development from day one.
